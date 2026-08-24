@@ -29,12 +29,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MnIm200345&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnIm200345&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MnIm200345&theme=tokyonight&hide_border=true" />
 </p>
@@ -44,11 +38,8 @@
 ### 📫 Kontakt
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/DEIN-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/maher-kharma-8ab567335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:DEINE-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
