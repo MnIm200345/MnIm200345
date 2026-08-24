@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ich bin [Dein Name]</h1>
+<h1 align="center">Hi 👋, ich bin Maher</h1>
 <h3 align="center">Informatik-Student by day, Python-Debugger by night 🐍</h3>
 
 <p align="center">
